@@ -36,6 +36,7 @@ Execute the program using runserver command.
 <table border="3" cellspacing="4" cellpadding="6" align="center" bgcolor="lightgrey">
 <caption>SLOT TIMETABLE-SUSITHRA(23011936)</caption>
             <tr>
+<<<<<<< HEAD
                <th bgcolor="pink">Day/Time</th>
                <th bgcolor="pink">Monday</th>
                <th bgcolor="pink">Tuesday</th>
@@ -74,6 +75,95 @@ Execute the program using runserver command.
                <td>Free Slot</td>
                <td>Digital Electronics</td>
                <td>Japanese</td>
+=======
+                <th bgcolor="yellow">8-10</th>
+                <td>FREE SLOT</td>
+                <td>19EN101</td>
+                <td>19AI414</td>
+                <td>19CS405</td>
+                <td>FREESLOT</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">10-12</th>
+                <td>19EE305</td>
+                <td>19AI414</td>
+                <td>FREESLOT</td>
+                <td>19MA222</td>
+                <td>19EE404</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">12-1</th>
+                <td colspan="5" align="center" bgcolor="yellow">LUNCH</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">1-3</th>
+                <td>19AI414</td>
+                <td>19EE404</td>
+                <td>19MS156</td>
+                <td>19EE305</td>
+                <td>19MS156</td>
+            </tr>
+            <tr>
+                <th bgcolor="yellow">3-5</th>
+                <td>19AI305</td>
+                <td>FREESLOT</td>
+                <td>19AI305</td>
+                <td>FREESLOT</td>
+                <td>19CS405</td>
+            </tr>
+        </table>
+        <table border="3" cellspacing="4" cellpadding="6" align="center">
+            <caption align="center"><b><br>SUBJECTS</b></caption>
+            <tr bgcolor="white">
+                <th>S.No</th>
+                <th>Subject Code</th>
+                <th align="center">Subject Name</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>19EE305</td>
+                <td>Bsic Electrical,Electronics and Measurement Engineeering</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>19AI414</td>
+                <td>Fundamentals of Web Application Development</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>19AI305</td>
+                <td>Advanced C Programming</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>19EN101</td>
+                <td>Communicative English</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>19EE404</td>
+                <td>Digital Electronics</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>19MS156</td>
+                <td>Human Resource Management and Team Building</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>19CS405</td>
+                <td>Operating System</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>19MA222</td>
+                <td>Probability and Queueing Models</td>
+            </tr>
+        </table>
+    </body>
+</html>
+```
+>>>>>>> 132b979009390c3e3220d2620564842f041b6a1f
 
           </tr>
           <tr>
